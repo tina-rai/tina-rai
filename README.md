@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tina Rai</h1>
 <h3 align="center">Experimenting</h3> 
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/tina-rai/tina-rai/assets/161432879/05e6e133-7517-4684-953f-833124f5e67c)
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/eb/56/4f/eb564f5ac88c9fe4914b8f3bc21376e5.jpg
 ">
 <!--https://i.pinimg.com/564x/75/5c/b6/755cb6295aca02d1c9bd3948a66746b7.jpg-->
 
