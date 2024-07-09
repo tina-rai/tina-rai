@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Tina Rai</h1>
 <h3 align="center">Experimenting</h3> 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/75/5c/b6/755cb6295aca02d1c9bd3948a66746b7.jpg">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/tina-rai/tina-rai/assets/161432879/05e6e133-7517-4684-953f-833124f5e67c)
+">
+<!--https://i.pinimg.com/564x/75/5c/b6/755cb6295aca02d1c9bd3948a66746b7.jpg-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tina-rai&label=Profile%20views&color=0e75b6&style=flat" alt="tina-rai" /> </p>
 
