@@ -1,4 +1,4 @@
-# tina
+
 <h1 align="center">Hi 👋, I'm Tina Rai</h1>
 <h3 align="center">Experimenting</h3> 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/75/5c/b6/755cb6295aca02d1c9bd3948a66746b7.jpg">
