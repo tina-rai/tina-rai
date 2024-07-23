@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi, I'm Tina Rai</h1>
 <h3 align="center">EXPERIMENTING</h3>
-<img align = "right" alt= "coding width="50" src="https://i.pinimg.com/736x/eb/56/4f/eb564f5ac88c9fe4914b8f3bc21376e5.jpg"
+<img align = "right" alt= "Coding" width="400" src="https://i.pinimg.com/736x/eb/56/4f/eb564f5ac88c9fe4914b8f3bc21376e5.jpg"
 - 🌱 I’m currently learning **ASP.NET core**
 
 - 📫 How to reach me **teena.rai666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tina-rai-4b3591302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tina-rai-4b3591302" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/tina-rai-4b3591302/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tina-rai-4b3591302" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
