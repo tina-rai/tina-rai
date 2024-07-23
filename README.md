@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Tina Rai</h1>
 <h3 align="center">EXPERIMENTING</h3>
-
+<img align = "right" alt= "coding width="400" src="https://i.pinimg.com/736x/eb/56/4f/eb564f5ac88c9fe4914b8f3bc21376e5.jpg"
 - 🌱 I’m currently learning **ASP.NET core**
 
 - 📫 How to reach me **teena.rai666@gmail.com**
