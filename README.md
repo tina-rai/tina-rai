@@ -4,7 +4,7 @@
 <img align = "right" alt= "Coding" width="400" src="https://i.pinimg.com/736x/eb/56/4f/eb564f5ac88c9fe4914b8f3bc21376e5.jpg"
 - 🌱 I’m currently learning **ASP.NET core**
 
-- 📫 How to reach me **teena.rai666@gmail.com**
+- 📫 How to reach me **contactina101@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
