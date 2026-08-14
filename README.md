@@ -67,8 +67,8 @@
 ---
 
 
-###  GitHub Stats
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tina-rai&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/tina-rai/tina-rai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
